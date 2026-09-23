@@ -16,13 +16,13 @@
 </p>
 
 ```
-  ██╗    ██╗██╗  ██╗ █████╗ ████████╗███████╗██████╗ ██╗██████╗  ██████╗ ███████╗
-  ██║    ██║██║  ██║██╔══██╗╚══██╔══╝██╔════╝██╔══██╗██║██╔══██╗██╔════╝ ██╔════╝
-  ██║ █╗ ██║███████║███████║   ██║   ███████╗██████╔╝██║██║  ██║██║  ███╗█████╗  
-  ██║███╗██║██╔══██║██╔══██║   ██║   ╚════██║██╔══██╗██║██║  ██║██║   ██║██╔══╝  
-  ╚███╔███╔╝██║  ██║██║  ██║   ██║   ███████║██████╔╝██║██████╔╝╚██████╔╝███████╗
-   ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═════╝ ╚═╝╚═════╝  ╚═════╝ ╚══════╝
-      Tactical Remote Bridge & Autonomous AI Assistant for Linux via WhatsApp
+  ██╗    ██╗██╗  ██╗ █████╗ ████████╗███████╗██████╗ ██████╗ ██╗██████╗  ██████╗ ███████╗
+  ██║    ██║██║  ██║██╔══██╗╚══██╔══╝██╔════╝██╔══██╗██╔══██╗██║██╔══██╗██╔════╝ ██╔════╝
+  ██║ █╗ ██║███████║███████║   ██║   ███████╗██████╔╝██████╔╝██║██║  ██║██║  ███╗█████╗  
+  ██║███╗██║██╔══██║██╔══██║   ██║   ╚════██║██╔══██╗██╔══██╗██║██║  ██║██║   ██║██╔══╝  
+  ╚███╔███╔╝██║  ██║██║  ██║   ██║   ███████║██████╔╝██║  ██║██║██████╔╝╚██████╔╝███████╗
+   ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═════╝  ╚═════╝ ╚══════╝
+         Tactical Remote Bridge & Autonomous AI Assistant for Linux via WhatsApp
 ```
 
 **WhatsApp Antigravity Bridge** is a tactical remote bridge and automation framework that links an authenticated **WhatsApp** session directly with your local **Linux** system (engineered for **Parrot Security OS** and Debian/Arch-based distributions). It merges the conversational intelligence and agentic coding power of **Google Antigravity CLI** (`agy`) with tactical remote shell execution, real-time hardware diagnostics, and desktop visual telemetry.
