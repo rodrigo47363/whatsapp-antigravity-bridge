@@ -148,10 +148,14 @@ async function startBot() {
                 continue;
             }
 
+            const from = msg.key.remoteJid;
+            if (!from || from === 'status@broadcast' || from.endsWith('@broadcast')) {
+                continue;
+            }
+
             const text = msg.message.conversation || msg.message.extendedTextMessage?.text;
             if (!text || !text.trim()) continue;
 
-            const from = msg.key.remoteJid;
             const cleanText = text.trim();
 
             // Filtro defensivo contra mensajes de estado del propio bot
