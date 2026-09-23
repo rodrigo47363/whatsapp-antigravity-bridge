@@ -1,0 +1,30 @@
+# Dependencias
+node_modules/
+package-lock.json
+
+# Credenciales y llaves de sesión de WhatsApp (CRÍTICO - NUNCA SUBIR)
+auth_info/
+*.key
+*.json.bak
+
+# Logs y registros en tiempo real
+*.log
+logs/
+
+# Temporales y capturas
+qr.png
+*.png
+*.jpg
+*.jpeg
+/tmp/
+
+# Entorno y variables
+.env
+.env.local
+
+# Archivos de sistema y editores
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo

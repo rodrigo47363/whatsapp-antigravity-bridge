@@ -1,0 +1,26 @@
+{
+  "name": "whatsapp-antigravity-bridge",
+  "version": "1.0.0",
+  "description": "Tactical remote bridge and autonomous AI assistant via WhatsApp integrating Baileys and Antigravity CLI on Linux/Parrot OS.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "baileys",
+    "antigravity",
+    "ai-agent",
+    "remote-control",
+    "automation",
+    "linux",
+    "security"
+  ],
+  "author": "rodrigo47363",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc14",
+    "pino": "^9.6.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
